@@ -1,0 +1,99 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    font-family: "Poppins", sans-serif;
+}
+
+.cabecario {
+    background-image: linear-gradient(#060aff,#477fc9);
+    color: rgb(0, 0, 0);
+    display:flex; 
+    justify-content:center;
+    align-items:center;
+    padding: 10px 0;
+}
+
+.logo{
+    width: 30%;
+
+}
+.nomes {
+    display:inline-block;
+    margin: 69  16px;
+    font-size: 15px;
+}
+.escola {
+    display:inline-block;
+    margin: 59 -350px;
+    font-size: 30px;
+}
+.imagem {
+width: 30%;
+padding: 5px 100;
+}
+
+.cole {
+    background-image: linear-gradient(#477fc9,#477fc9);
+    color: black;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    padding: 100px 0;
+} 
+
+.escola-div {
+    width: 29%;
+}
+.cole-escola {
+    padding: 15px 0;
+}
+.estudante1 {
+    width: 150px;
+
+}
+.github {
+    width: 32px;
+}
+.insta {
+    width: 32px;
+}
+.estudante-div {
+    text-align: center;
+}
+.pessoas {
+    background-color: #477fc9   ;
+    padding: 100px 0;
+    font-size: small;
+}
+.pessoas-titulo {
+    text-align: center;
+    padding: 5  px 0;
+    
+}
+.estudante-todos {
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    padding: 100px 0;
+}
+.rodape {
+    background-image: linear-gradient(#060aff,#060aff);
+    text-align: center;
+}
+.rodape-img {
+height: 90px;
+padding: 7px 0;
+}
+.campo { background-image: linear-gradient(#477fc9,#477fc9);
+    color: black;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    padding: 0px 0;
+
+}
+
+.tc {
+    padding: 15px 0; 
+}060aff
